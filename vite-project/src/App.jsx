@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-       <div>PICKLE RICK</div>
+   <div>
+    hi my friends
+   </div>
     </>
   )
 }
