@@ -1,6 +1,5 @@
 import './App.css'
-import Jokes from './Jokes'
-
+import Jokes from './Jokes.jsx'
 function App() {
 
   return (
@@ -9,10 +8,6 @@ function App() {
    <div>
     hi my friends
    </div>
-
-       <div>
-       const name = new type(arguments);
-       </div>
     </>
   )
 }
