@@ -4,9 +4,15 @@ function App() {
 
   return (
     <>
+
    <div>
     hi my friends
    </div>
+
+       <div>
+       const name = new type(arguments);
+       </div>
+
     </>
   )
 }
