@@ -1,17 +1,12 @@
 import './App.css'
-
+import Jokes from './Jokes.jsx'
 function App() {
 
   return (
     <>
 
-   <div>
-    hi my friends
-   </div>
+   <Jokes/>
 
-       <div>
-       const name = new type(arguments);
-       </div>
     </>
   )
 }
