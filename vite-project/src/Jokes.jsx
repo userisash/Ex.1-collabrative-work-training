@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import {useState} from 'react'
 
 const Jokes = () => {
   const [numbOfJokes,setNumbOfJokes]=useState(0)
