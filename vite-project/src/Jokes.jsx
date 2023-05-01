@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 
-const GetJokes = () =>{
+const Jokes = () =>{
     const [jokes, setJokes] = useState(null)
+
 
     useEffect(async () =>{
         let headersList = {
@@ -29,3 +30,5 @@ const GetJokes = () =>{
         </>
     )
 }
+
+export default Jokes
