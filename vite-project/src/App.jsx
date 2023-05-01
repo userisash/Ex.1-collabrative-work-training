@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-       <div> hiiiii</div>
+       <div> const name = new type(arguments);</div>
     </>
   )
 }
