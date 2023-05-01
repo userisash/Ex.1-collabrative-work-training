@@ -12,7 +12,6 @@ function App() {
        <div>
        const name = new type(arguments);
        </div>
-
     </>
   )
 }
