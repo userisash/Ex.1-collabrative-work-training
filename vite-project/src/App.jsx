@@ -1,10 +1,11 @@
 import './App.css'
+import Jokes from './Jokes'
 
 function App() {
 
   return (
     <>
-
+    <Jokes/>
    <div>
     hi my friends
    </div>
